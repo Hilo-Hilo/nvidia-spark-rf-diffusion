@@ -1,0 +1,46 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+outputs/
+Master/
+*.zip
+*.pdb
+*.pdb1
+*.pdb1.gz
+params/
+schedules.zip
+Base_ckpt.pt
+Complex_base_ckpt.pt
+alphafold_params_2022-12-06.tar
+ananas
+tmp.pdb
+
+# Large model files
+*.pt
+*.ckpt
+*.h5
+*.pth
+
